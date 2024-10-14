@@ -1,3 +1,5 @@
+![logo](https://github.com/ManahilHabibb/ManahilHabibb/blob/main/Banner-Introduction-to-3D-Animation.webp)
+
 <h1 align="center">Hi 👋, I'm Manahil Habib</h1>
 <h3 align="center">A passionate developer .</h3>
 
